@@ -5,6 +5,6 @@
 * Project Implementation carried in Jupyter Notebook and using Python as programming language
 * Major libraries used for model implementation are:
 *pandas
-*seaborn
-*matplotlib
-*scikit learn
+seaborn
+matplotlib
+scikit learn*
